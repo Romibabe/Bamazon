@@ -2,7 +2,7 @@ var mysql = require("mysql");
 var Table = require("cli-table");
 var inquirer = require("inquirer");
 var colors = require('colors');
-var keys = require("./keys.js");   //where my password is stored  
+// var keys = require("./keys.js");   //where my password is stored  
 var orderTotal = 0;
 
 
@@ -11,7 +11,7 @@ var connection = mysql.createConnection({
     host     : 'localhost',
     port     :  3306,
     user     : 'root',                      //change to your user name if it is not root
-    password : "",          //change to your password or set up a keys.js file
+    password : "ethan123",          //change to your password or set up a keys.js file
     database : 'bamazon'                    
 });
 

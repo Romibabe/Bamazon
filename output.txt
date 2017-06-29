@@ -1,5 +1,4 @@
-romibabe@RomiBabe MINGW64 ~/documents/bamazon (master)
-$ node customer.js
+
 
 _______________________________________________________________________________________________________
 
@@ -44,4 +43,3 @@ Your order total of all products this session: $22.99
 ? Would you like to order another item? No
 Thank you for using Bamazon
 
-romibabe@RomiBabe MINGW64 ~/documents/bamazon (master)

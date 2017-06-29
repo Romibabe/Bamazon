@@ -11,7 +11,7 @@ var connection = mysql.createConnection({
     host     : 'localhost',
     port     :  3306,
     user     : 'root',                      //change to your user name if it is not root
-    password : "keys.dbkeys.password",          //change to your password or set up a keys.js file
+    password : "keys.dbkeys.passwordeth",          //change to your password or set up a keys.js file
     database : 'bamazon'                    
 });
 
